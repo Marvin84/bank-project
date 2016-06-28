@@ -1,4 +1,4 @@
-# bankProject
+# bank-project
 
 Descrizione Generale dell’elaborato
 Questo elaborato è un Java Application che simula una parte delle funzionalità di una banca. Si tratta della creazione di due tipi di conto: General e Young e del controllo sulla loro corretta funzionamento. Il conto Young è per i giovani sotto 25 anni e non ha costi di manutenzione. In cambio non è possibile effettuare prelievi o pagamenti che superano 700 euro e il saldo non può mai andare sotto zero.
